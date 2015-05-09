@@ -2,13 +2,13 @@
 ## Prerequisites
 ### Ingredients
 - 10 Corn Tortillas
-- 1 Jar of Green Chile Sauce
+- 1 Jar Green Chile Sauce
   - That Green Sauce from HEB (GF)
 - Meat
   - Rotisserie Chicken is easy
 - 3 Cups Shredded Cheese
 
-### Dishes
+### Equipment
 - 13x9 Casserole Dish
 - Large Skillet
 - Tinfoil
@@ -27,3 +27,6 @@
 ## Cooking
 - Bake 15-20 minutes, until cheese is melted.
 - Bake 5 minutes, until cheese is bubbly, and edges are crispy.
+
+## Nutrition
+- TBD
