@@ -1,22 +1,22 @@
 # cookbook
-Personal Cooking Recipes
+#### My collection of personal favorites or homegrown recipes.
 
 
 # Breakfasts
-[Oatmeal Muffins](breakfast/oatmealMuffins.md)
+- [Oatmeal Muffins](breakfast/oatmealMuffins.md)
+
 # Lunches
-To be created!
+- To be created!
+
 # Dinners
-[Green Chile Enchiladas](dinner/greenChileEnchiladas.md)
+- [Green Chile Enchiladas](dinner/greenChileEnchiladas.md)
+- [Pork Chops](dinner/porkChops.md)
+- [Shepherd's Pie](dinner/shepherdsPie.md)
 
-[Pork Chops](dinner/porkChops.md)
-
-[Shepherd's Pie](dinner/shepherdsPie.md)
 # Desserts
-To be created!
+- To be created!
+
 # Drinks
-[Gin and 'Gina](drinks/ginAndGina.md)
-
-[SoCo Lime and Cherry Coke](drinks/soCoLimeAndCherryCoke.md)
-
-[Tom Collins](drinks/tomCollins.md)
+- [Gin and 'Gina](drinks/ginAndGina.md)
+- [SoCo Lime and Cherry Coke](drinks/soCoLimeAndCherryCoke.md)
+- [Tom Collins](drinks/tomCollins.md)
