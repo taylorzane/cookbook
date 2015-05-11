@@ -5,9 +5,10 @@
   - Quick Oats work best.
 - 1 Egg
 - 1 tsp. Brown Sugar
-- 1 Splash Milk
-- 1 Dash Cinnamon
+- 1 tsp. Milk
+- 1/8 tsp. Cinnamon
 - Optional:
+  - 1/8 tsp. Adam's Best
   - Diced fresh fruit
 
 ### Equipment
